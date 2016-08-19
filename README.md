@@ -1,3 +1,8 @@
+# UNMAINTAINED
+
+This git repository is now unmaintained by Gilt. Development of sbt-codedeploy continues at https://github.com/myyk/sbt-codedeploy, please submit bug reports and feature requests there. Thank you!
+
+
 # SBT plugin for [AWS CodeDeploy](http://aws.amazon.com/codedeploy/)
 
 Creates zip files for usage with AWS CodeDeploy. Uses defaults that support conventions set forth in the AWS CodeDeploy docs.
